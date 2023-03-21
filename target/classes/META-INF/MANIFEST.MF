@@ -1,5 +1,62 @@
 Manifest-Version: 1.0
 Built-By: RAHUL
+Class-Path: outjar/selenium-java-4.3.0.jar outjar/selenium-api-4.3.0.j
+ ar outjar/selenium-chrome-driver-4.3.0.jar outjar/auto-service-annota
+ tions-1.0.1.jar outjar/auto-service-1.0.1.jar outjar/auto-common-1.2.
+ jar outjar/guava-31.1-jre.jar outjar/failureaccess-1.0.1.jar outjar/l
+ istenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar outjar/
+ jsr305-3.0.2.jar outjar/checker-qual-3.12.0.jar outjar/error_prone_an
+ notations-2.11.0.jar outjar/j2objc-annotations-1.3.jar outjar/seleniu
+ m-chromium-driver-4.3.0.jar outjar/selenium-json-4.3.0.jar outjar/sel
+ enium-devtools-v101-4.3.0.jar outjar/selenium-devtools-v102-4.3.0.jar
+  outjar/selenium-devtools-v103-4.3.0.jar outjar/selenium-devtools-v85
+ -4.3.0.jar outjar/selenium-edge-driver-4.3.0.jar outjar/selenium-fire
+ fox-driver-4.3.0.jar outjar/selenium-ie-driver-4.3.0.jar outjar/selen
+ ium-opera-driver-4.3.0.jar outjar/selenium-remote-driver-4.3.0.jar ou
+ tjar/jcommander-1.82.jar outjar/netty-buffer-4.1.78.Final.jar outjar/
+ netty-codec-http-4.1.78.Final.jar outjar/netty-codec-4.1.78.Final.jar
+  outjar/netty-handler-4.1.78.Final.jar outjar/netty-common-4.1.78.Fin
+ al.jar outjar/netty-transport-classes-epoll-4.1.78.Final.jar outjar/n
+ etty-transport-classes-kqueue-4.1.78.Final.jar outjar/netty-transport
+ -native-epoll-4.1.78.Final.jar outjar/netty-transport-native-kqueue-4
+ .1.78.Final.jar outjar/netty-transport-native-unix-common-4.1.78.Fina
+ l.jar outjar/netty-transport-4.1.78.Final.jar outjar/netty-resolver-4
+ .1.78.Final.jar outjar/opentelemetry-api-1.15.0.jar outjar/openteleme
+ try-context-1.15.0.jar outjar/opentelemetry-exporter-logging-1.15.0.j
+ ar outjar/opentelemetry-sdk-metrics-1.15.0.jar outjar/opentelemetry-s
+ dk-logs-1.15.0-alpha.jar outjar/opentelemetry-sdk-common-1.15.0.jar o
+ utjar/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar outjar
+ /opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar outjar/op
+ entelemetry-sdk-trace-1.15.0.jar outjar/opentelemetry-sdk-1.15.0.jar 
+ outjar/opentelemetry-semconv-1.15.0-alpha.jar outjar/jtoml-2.0.0.jar 
+ outjar/byte-buddy-1.12.10.jar outjar/commons-exec-1.3.jar outjar/asyn
+ c-http-client-2.12.3.jar outjar/async-http-client-netty-utils-2.12.3.
+ jar outjar/netty-codec-socks-4.1.60.Final.jar outjar/netty-handler-pr
+ oxy-4.1.60.Final.jar outjar/netty-transport-native-epoll-4.1.60.Final
+ -linux-x86_64.jar outjar/netty-transport-native-kqueue-4.1.60.Final-o
+ sx-x86_64.jar outjar/reactive-streams-1.0.3.jar outjar/netty-reactive
+ -streams-2.0.4.jar outjar/jakarta.activation-1.2.2.jar outjar/seleniu
+ m-http-4.3.0.jar outjar/failsafe-3.2.4.jar outjar/selenium-safari-dri
+ ver-4.3.0.jar outjar/selenium-support-4.3.0.jar outjar/webdrivermanag
+ er-5.2.1.jar outjar/slf4j-api-1.7.36.jar outjar/gson-2.9.0.jar outjar
+ /docker-java-3.2.13.jar outjar/docker-java-core-3.2.13.jar outjar/doc
+ ker-java-api-3.2.13.jar outjar/jackson-annotations-2.10.3.jar outjar/
+ jackson-databind-2.10.3.jar outjar/jackson-core-2.10.3.jar outjar/bcp
+ kix-jdk15on-1.64.jar outjar/bcprov-jdk15on-1.64.jar outjar/jcl-over-s
+ lf4j-1.7.30.jar outjar/docker-java-transport-httpclient5-3.2.13.jar o
+ utjar/docker-java-transport-3.2.13.jar outjar/jna-5.8.0.jar outjar/de
+ c-0.1.2.jar outjar/commons-lang3-3.12.0.jar outjar/httpclient5-5.1.3.
+ jar outjar/httpcore5-5.1.3.jar outjar/httpcore5-h2-5.1.3.jar outjar/p
+ oi-ooxml-5.2.2.jar outjar/poi-ooxml-lite-5.2.2.jar outjar/xmlbeans-5.
+ 0.3.jar outjar/xml-apis-1.4.01.jar outjar/commons-compress-1.21.jar o
+ utjar/commons-io-2.11.0.jar outjar/curvesapi-1.07.jar outjar/log4j-ap
+ i-2.17.2.jar outjar/commons-collections4-4.4.jar outjar/poi-5.2.2.jar
+  outjar/commons-codec-1.15.jar outjar/commons-math3-3.6.1.jar outjar/
+ SparseBitSet-1.2.jar outjar/extentreports-2.41.2.jar outjar/jsoup-1.8
+ .3.jar outjar/sqlite-jdbc-3.8.11.1.jar outjar/freemarker-2.3.23.jar o
+ utjar/mongodb-driver-3.0.4.jar outjar/bson-3.0.4.jar outjar/mongodb-d
+ river-core-3.0.4.jar
 Build-Jdk: 1.8.0_291
 Created-By: Maven Integration for Eclipse
+Main-Class: theMainClass
 
